@@ -19,3 +19,4 @@ This project is a Resume Screening web app built using Django and Natural Langua
    django-admin startproject resume_screening
    cd resume_screening
    python manage.py startapp screening
+<img width="1579" height="713" alt="image" src="https://github.com/user-attachments/assets/79445758-2dfc-4ea0-9cc3-3a38395d0288" />
